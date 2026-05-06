@@ -17,18 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I'm Xiongwei Zhu (<font face=STSong>朱雄伟</font>), a Master's student at the [School of Computer Science and Engineering](https://scse.buaa.edu.cn/), [Beihang University](https://www.buaa.edu.cn/), where I also received my Bachelor's degree. I am currently working under the supervision of Associate Professor [Xiaojian Liao](https://liaoxiaojian.github.io/).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+My research interests lie in Machine Learning Systems (MLSys), with a particular focus on optimizing large-scale model inference and infrastructure. Specifically, I am interested in developing efficient inference techniques (e.g., KV Cache management), architecture-specific optimizations for Mixture-of-Experts (MoE) models, and building robust system infrastructure including AI storage and AI compilers. More broadly, I am interested in AI-related topics in general. If you are interested in potential collaborations or would like to discuss anything, please feel free to reach out via email.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.05*: &nbsp;🎉 One paper (as **first author**) has been accepted to ICML 2026.
+- *2025.11*: &nbsp;🎉 I received Second Prize of the **AVIC(Aviation Industry Corporation of China) Scholarship**.
+- *2025.10*: &nbsp;🎉 I was admitted to the School of Computer Science and Engineering, Beihang University for Master Degree studies.  
+- *2025.10*: &nbsp;🎉 I received the **National Scholarship**.
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -38,21 +39,31 @@ My research interest includes neural machine translation and computer vision. I 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
-</div>
+</div> -->
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- **[ICML 2026]** [ReMoE: Boosting Expert Reuse through Router Fine-Tuning in Memory-Constrained MoE LLM Inference](https://icml.cc) \\
+**<u>Xiongwei Zhu</u>**, Xiaojian Liao, Tianyang Jiang, Yusen Zhang, Liang Wang, Limin Xiao \\
+Proceedings of the Forty-Third International Conference on Machine Learning, <span style="color: red;">(CCF-A)</span>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **National Scholarship of China**, *2025*
+- **Second Prize**, **AVIC(Aviation Industry Corporation of China) Scholarship**, *2025*
+- **First Prize & Special Award (Sole Undergraduate Recipient Nationwide)**, National Grand Finals of the 14th "China Software Cup" Undergraduate Software Design Contest, **Team Leader**, *2025*
+- **8th Place (Preliminary Round)**, Compiler Design & Implementation Track, National Undergraduate Computer System Capability Challenge (NSCSCC), **Lead Developer**, *2025*
+- **First Prize (Beijing Division)**, National Mathematics Competition for Undergraduate Students (CMC), *2024*
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2026.09 (expected)*, Master Student, School of Computer Science and Engineering, Beihang University
+- *2022.09 - 2026.06 (expected)*, Undergraduate Student, School of Computer Science and Engineering, Beihang University
+- *2019.09 - 2022.06*, High School Student, Shenzhen Foreign Languages School
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2025.10 - 2026.01*, The Honor of Kings(<font face=STSong>王者荣耀</font>) Team, TiMi L1 Studio, Tencent
+
+# 👩🏻‍🏫 Teaching
+* Senior Teaching Assistant, Compile Technology, Beihang University, Spring & Fall 2025
+* Teaching Assistant, Object-Oriented Programming, Beihang University, Spring 2025
+
+# 🔗 Links
+- Advisors: [Xiaojian Liao](https://liaoxiaojian.github.io/)
+- Coauthors: [Yitong Zhang](https://zhangyitonggg.github.io/) (BUAA), [Zhuohang Bian](https://zhhangbian.github.io/) (BUAA)
