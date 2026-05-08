@@ -17,14 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm Xiongwei Zhu (<font face=STSong>朱雄伟</font>), a Master's student at the [School of Computer Science and Engineering](https://scse.buaa.edu.cn/), [Beihang University](https://www.buaa.edu.cn/), where I also received my Bachelor's degree. I am currently working under the supervision of Associate Professor [Xiaojian Liao](https://liaoxiaojian.github.io/).
+I'm Xiongwei Zhu (<font face=STSong>朱雄伟</font>), an incoming Master's student at the [School of Computer Science and Engineering](https://scse.buaa.edu.cn/), [Beihang University](https://www.buaa.edu.cn/), where I am expected to receive my Bachelor's degree in June 2026. I am currently working under the supervision of Associate Professor [Xiaojian Liao](https://liaoxiaojian.github.io/).
 
-My research interests lie in Machine Learning Systems (MLSys), with a particular focus on optimizing large-scale model inference and infrastructure. Specifically, I am interested in developing efficient inference techniques (e.g., KV Cache management), architecture-specific optimizations for Mixture-of-Experts (MoE) models, and building robust system infrastructure including AI storage and AI compilers. More broadly, I am interested in AI-related topics in general. If you are interested in potential collaborations or would like to discuss anything, please feel free to reach out via email.
+My research interests lie in Machine Learning Systems (MLSys), with a focus on efficient large-scale model inference and AI system infrastructure. I am particularly interested in KV cache management, memory-efficient LLM serving, and architecture-aware optimizations for Mixture-of-Experts (MoE) models. I am also interested in storage systems for AI workloads and AI compilers.
+
+If you are interested in potential collaborations or research discussions, please feel free to reach out via email.
 
 # 🔥 News
 - *2026.05*: &nbsp;🎉 One paper (as **first author**) has been accepted to ICML 2026.
-- *2025.11*: &nbsp;🎉 I received Second Prize of the **AVIC(Aviation Industry Corporation of China) Scholarship**.
-- *2025.10*: &nbsp;🎉 I was admitted to the School of Computer Science and Engineering, Beihang University for Master Degree studies.  
+- *2025.11*: &nbsp;🎉 I received Second Prize of the **AVIC (Aviation Industry Corporation of China) Scholarship**.
+- *2025.10*: &nbsp;🎉 I was admitted to the Master's program at the School of Computer Science and Engineering, Beihang University.  
 - *2025.10*: &nbsp;🎉 I received the **National Scholarship**.
 
 # 📝 Selected Publications 
@@ -43,27 +45,27 @@ My research interests lie in Machine Learning Systems (MLSys), with a particular
 
 - **[ICML 2026]** [ReMoE: Boosting Expert Reuse through Router Fine-Tuning in Memory-Constrained MoE LLM Inference](https://icml.cc) \\
 **<u>Xiongwei Zhu</u>**, Xiaojian Liao, Tianyang Jiang, Yusen Zhang, Liang Wang, Limin Xiao \\
-Proceedings of the Forty-Third International Conference on Machine Learning, <span style="color: red;">(CCF-A)</span>
+Proceedings of the Forty-Third International Conference on Machine Learning <span style="color: red;">(CCF-A)</span>
 
 # 🎖 Honors and Awards
 - **National Scholarship of China**, *2025*
-- **Second Prize**, **AVIC(Aviation Industry Corporation of China) Scholarship**, *2025*
+- **Second Prize**, **AVIC Scholarship (Aviation Industry Corporation of China)**, *2025*
 - **First Prize & Special Award (Sole Undergraduate Recipient Nationwide)**, National Grand Finals of the 14th "China Software Cup" Undergraduate Software Design Contest, **Team Leader**, *2025*
 - **8th Place (Preliminary Round)**, Compiler Design & Implementation Track, National Undergraduate Computer System Capability Challenge (NSCSCC), **Lead Developer**, *2025*
 - **First Prize (Beijing Division)**, National Mathematics Competition for Undergraduate Students (CMC), *2024*
 
 # 📖 Educations
-- *2026.09 (expected)*, Master Student, School of Computer Science and Engineering, Beihang University
-- *2022.09 - 2026.06 (expected)*, Undergraduate Student, School of Computer Science and Engineering, Beihang University
-- *2019.09 - 2022.06*, High School Student, Shenzhen Foreign Languages School
+- *2026.09 (expected)*, Master's student, School of Computer Science and Engineering, Beihang University
+- *2022.09 - 2026.06 (expected)*, Undergraduate student, School of Computer Science and Engineering, Beihang University
+- *2019.09 - 2022.06*, High school student, Shenzhen Foreign Languages School
 
 # 💻 Internships
-- *2025.10 - 2026.01*, The Honor of Kings(<font face=STSong>王者荣耀</font>) Team, TiMi L1 Studio, Tencent
+- *2025.10 - 2026.01*, Honor of Kings (<font face=STSong>王者荣耀</font>) Team, TiMi L1 Studio, Tencent
 
 # 👩🏻‍🏫 Teaching
-* Senior Teaching Assistant, Compile Technology, Beihang University, Spring & Fall 2025
+* Senior Teaching Assistant, Compiler Technology, Beihang University, Spring & Fall 2025
 * Teaching Assistant, Object-Oriented Programming, Beihang University, Spring 2025
 
 # 🔗 Links
-- Advisors: [Xiaojian Liao](https://liaoxiaojian.github.io/)
-- Coauthors: [Yitong Zhang](https://zhangyitonggg.github.io/) (BUAA), [Zhuohang Bian](https://zhhangbian.github.io/) (BUAA)
+- Advisors: [Xiaojian Liao](https://liaoxiaojian.github.io/) (BUAA)
+- Friends: [Yitong Zhang](https://zhangyitonggg.github.io/) (BUAA), [Zhuohang Bian](https://zhhangbian.github.io/) (BUAA)
