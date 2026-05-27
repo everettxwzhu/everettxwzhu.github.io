@@ -43,16 +43,16 @@ If you are interested in potential collaborations or research discussions, pleas
 </div>
 </div> -->
 
-- **[ICML 2026]** [ReMoE: Boosting Expert Reuse through Router Fine-Tuning in Memory-Constrained MoE LLM Inference](https://icml.cc) \\
+- **[ICML 2026]** [ReMoE: Boosting Expert Reuse through Router Fine-Tuning in Memory-Constrained MoE LLM Inference](https://arxiv.org/pdf/2605.27081) \\
 **<u>Xiongwei Zhu</u>**, Xiaojian Liao, Tianyang Jiang, Yusen Zhang, Liang Wang, Limin Xiao \\
 Proceedings of the Forty-Third International Conference on Machine Learning <span style="color: red;">(CCF-A)</span>
 
 # 🎖 Honors and Awards
 - **National Scholarship of China**, *2025*
 - **Second Prize**, **AVIC Scholarship (Aviation Industry Corporation of China)**, *2025*
-- **First Prize & Special Award (Sole Undergraduate Recipient Nationwide)**, National Grand Finals of the 14th "China Software Cup" Undergraduate Software Design Contest, **Team Leader**, *2025*
-- **8th Place (Preliminary Round)**, Compiler Design & Implementation Track, National Undergraduate Computer System Capability Challenge (NSCSCC), **Lead Developer**, *2025*
-- **First Prize (Beijing Division)**, National Mathematics Competition for Undergraduate Students (CMC), *2024*
+- **First Prize & Special Award (Sole Recipient Nationwide)**, National Grand Finals of the 14th "China Software Cup" Software Design Contest, **Team Leader**, *2025*
+- **8th Place (Preliminary Round)**, Compiler Design & Implementation Track, National Student Computer System Capability Challenge (NSCSCC), **Lead Developer**, *2025*
+- **First Prize (Beijing Division)**, Chinese Mathematics Competitions (CMC), *2024*
 
 # 📖 Educations
 - *2026.09 (expected)*, Master's student, School of Computer Science and Engineering, Beihang University
@@ -60,7 +60,7 @@ Proceedings of the Forty-Third International Conference on Machine Learning <spa
 - *2019.09 - 2022.06*, High school student, Shenzhen Foreign Languages School
 
 # 💻 Internships
-- *2025.10 - 2026.01*, Honor of Kings (<font face=STSong>王者荣耀</font>) Team, TiMi L1 Studio, Tencent
+- *2025.10 - 2026.01*, Honor of Kings (<font face=STSong>王者荣耀</font>) Team, [TiMi L1 Studio](https://timi.qq.com/), Tencent
 
 # 👩🏻‍🏫 Teaching
 * Senior Teaching Assistant, Compiler Technology, Beihang University, Spring & Fall 2025
