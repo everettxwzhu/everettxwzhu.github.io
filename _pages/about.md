@@ -17,14 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm Xiongwei Zhu (<font face=STSong>朱雄伟</font>), an incoming Master's student at the [School of Computer Science and Engineering](https://scse.buaa.edu.cn/), [Beihang University](https://www.buaa.edu.cn/), where I am expected to receive my Bachelor's degree in June 2026. I am currently working under the supervision of Associate Professor [Xiaojian Liao](https://liaoxiaojian.github.io/).
+I'm Xiongwei Zhu (<font face=STSong>朱雄伟</font>), a Master's student at the [School of Computer Science and Engineering](https://scse.buaa.edu.cn/), [Beihang University](https://www.buaa.edu.cn/). I received my Bachelor's degree from the same school in June 2026. I am currently working under the supervision of Associate Professor [Xiaojian Liao](https://liaoxiaojian.github.io/).
 
 My research interests lie in Machine Learning Systems (MLSys), with a focus on efficient large-scale model inference and AI system infrastructure. I am particularly interested in KV cache management, memory-efficient LLM serving, and architecture-aware optimizations for Mixture-of-Experts (MoE) models. I am also interested in storage systems for AI workloads and AI compilers.
 
 If you are interested in potential collaborations or research discussions, please feel free to reach out via email.
 
 # 🔥 News
-- *2026.05*: &nbsp;🎉 One paper (as **first author**) has been accepted to ICML 2026.
+- *2026.06*: &nbsp;🎓 I received my Bachelor's degree from Beihang University.
+- *2026.06*: &nbsp;📝 One paper is planned for submission to ASP-DAC.
+- *2026.05*: &nbsp;🎉 **ReMoE** has been accepted to ICML 2026.
 - *2025.11*: &nbsp;🎉 I received Second Prize of the **AVIC (Aviation Industry Corporation of China) Scholarship**.
 - *2025.10*: &nbsp;🎉 I was admitted to the Master's program at the School of Computer Science and Engineering, Beihang University.  
 - *2025.10*: &nbsp;🎉 I received the **National Scholarship**.
@@ -43,7 +45,8 @@ If you are interested in potential collaborations or research discussions, pleas
 </div>
 </div> -->
 
-- **[ICML 2026]** [ReMoE: Boosting Expert Reuse through Router Fine-Tuning in Memory-Constrained MoE LLM Inference](https://arxiv.org/pdf/2605.27081) \\
+- **[ICML 2026]** ReMoE: Boosting Expert Reuse through Router Fine-Tuning in Memory-Constrained MoE LLM Inference \\
+[arXiv](https://arxiv.org/pdf/2605.27081) | [OpenReview](https://openreview.net/forum?id=ylAhgNb2ak) \\
 **<u>Xiongwei Zhu</u>**, Xiaojian Liao, Tianyang Jiang, Yusen Zhang, Liang Wang, Limin Xiao \\
 Proceedings of the Forty-Third International Conference on Machine Learning <span style="color: red;">(CCF-A)</span>
 
@@ -54,9 +57,9 @@ Proceedings of the Forty-Third International Conference on Machine Learning <spa
 - **8th Place (Preliminary Round)**, Compiler Design & Implementation Track, National Student Computer System Capability Challenge (NSCSCC), **Lead Developer**, *2025*
 - **First Prize (Beijing Division)**, Chinese Mathematics Competitions (CMC), *2024*
 
-# 📖 Educations
-- *2026.09 (expected)*, Master's student, School of Computer Science and Engineering, Beihang University
-- *2022.09 - 2026.06 (expected)*, Undergraduate student, School of Computer Science and Engineering, Beihang University
+# 📖 Education
+- *2026.09 - Present*, Master's student, School of Computer Science and Engineering, Beihang University
+- *2022.09 - 2026.06*, Undergraduate student, School of Computer Science and Engineering, Beihang University
 - *2019.09 - 2022.06*, High school student, Shenzhen Foreign Languages School
 
 # 💻 Internships
