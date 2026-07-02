@@ -25,7 +25,7 @@ If you are interested in potential collaborations or research discussions, pleas
 
 # 🔥 News
 - *2026.06*: &nbsp;🎓 I received my Bachelor's degree from Beihang University.
-- *2026.06*: &nbsp;📝 One paper is planned for submission to ASP-DAC.
+- *2026.06*: &nbsp;📝 One paper is planned for submission to HPCA.
 - *2026.05*: &nbsp;🎉 **ReMoE** has been accepted to ICML 2026.
 - *2025.11*: &nbsp;🎉 I received Second Prize of the **AVIC (Aviation Industry Corporation of China) Scholarship**.
 - *2025.10*: &nbsp;🎉 I was admitted to the Master's program at the School of Computer Science and Engineering, Beihang University.  
