@@ -24,6 +24,7 @@ My research interests lie in Machine Learning Systems (MLSys), with a focus on e
 If you are interested in potential collaborations or research discussions, please feel free to reach out via email.
 
 # 🔥 News
+- *2026.08*: &nbsp;🎉 I was selected for the **2026 CCF Elite Collegiate Award**, an annual nationwide program recognizing approximately 100 outstanding students from universities across China.
 - *2026.06*: &nbsp;🎓 I received my Bachelor's degree from Beihang University.
 - *2026.06*: &nbsp;📝 One paper is planned for submission to HPCA.
 - *2026.05*: &nbsp;🎉 **ReMoE** has been accepted to ICML 2026.
@@ -51,6 +52,7 @@ If you are interested in potential collaborations or research discussions, pleas
 Proceedings of the Forty-Third International Conference on Machine Learning <span style="color: red;">(CCF-A)</span>
 
 # 🎖 Honors and Awards
+- **CCF Elite Collegiate Award**, China Computer Federation (CCF), *2026* — selected as one of approximately 100 students nationwide
 - **National Scholarship of China**, *2025*
 - **Second Prize**, **AVIC Scholarship (Aviation Industry Corporation of China)**, *2025*
 - **First Prize & Special Award (Sole Recipient Nationwide)**, National Grand Finals of the 14th "China Software Cup" Software Design Contest, **Team Leader**, *2025*
