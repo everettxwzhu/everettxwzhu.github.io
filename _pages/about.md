@@ -65,7 +65,8 @@ Proceedings of the Forty-Third International Conference on Machine Learning <spa
 - *2019.09 - 2022.06*, High school student, Shenzhen Foreign Languages School
 
 # 💻 Internships
-- *2025.10 - 2026.01*, Honor of Kings (<font face=STSong>王者荣耀</font>) Team, [TiMi L1 Studio](https://timi.qq.com/), Tencent
+- *2026.09 - Present*, Intern at Hunyuan **AI Infra Team**, Tencent
+- *2025.10 - 2026.01*, Intern at Honor of Kings (<font face=STSong>王者荣耀</font>) Team, [TiMi L1 Studio](https://timi.qq.com/), Tencent
 
 # 👩🏻‍🏫 Teaching
 * Senior Teaching Assistant, Compiler Technology, Beihang University, Spring & Fall 2025
